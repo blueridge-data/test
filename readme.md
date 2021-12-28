@@ -12,3 +12,4 @@ git checkout branch -> open branch
 
 git add . -> another way to add all files in directory
 
+git merge master -> takes changes from master and applies to current branch
