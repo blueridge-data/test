@@ -13,3 +13,7 @@ git checkout branch -> open branch
 git add . -> another way to add all files in directory
 
 git merge master -> takes changes from master and applies to current branch
+
+git push -u origin master -> pushed to remote github
+
+git pull origin master -> pull from remote github
